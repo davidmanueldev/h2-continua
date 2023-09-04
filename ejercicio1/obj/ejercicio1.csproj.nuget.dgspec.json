@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj": {}
+    "c:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj": {
+    "c:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj",
+        "projectUniqueName": "c:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj",
         "projectName": "ejercicio1",
-        "projectPath": "C:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj",
+        "projectPath": "c:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\ejercicio1.csproj",
         "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\obj\\",
+        "outputPath": "c:\\Users\\David\\Documents\\tareas-2\\continua\\ejercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config"
